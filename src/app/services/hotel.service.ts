@@ -33,8 +33,6 @@ export class HotelService {
         let item = res[key]
         alert(item.com)
       }
-
-
     })
   }
 
