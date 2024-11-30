@@ -34,6 +34,7 @@ export class HotelService {
         alert(item.com)
       }
     })
+    
   }
 
 }
